@@ -12,20 +12,19 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" />
   <img src="https://img.shields.io/badge/Maven-282C34?logo=apachemaven&logoColor=red" alt="Maven logo" title="Apache Maven" height="25" />
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />
-  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
 </div>
 
 <!-- 🎨 Frontend -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-  <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" />
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-  <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
-  <img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" />
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
+  <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25" />
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25" />
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="25" />
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" />
 </div>
 
 <!-- 🧰 Tools & DevOps -->
@@ -50,12 +49,6 @@
 <div align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenPhuongCoder&theme=react&hide_border=true&background=0D1117&fire=FF652F&ring=FF652F&currStreakLabel=FF652F" />
 </div>
-
-<!-- 3. Productivity Graph - Visual representation of work -->
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenPhuongCoder&theme=github_dark&utcOffset=7" />
-</div>
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
