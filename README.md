@@ -41,13 +41,13 @@
 
 <!-- 1. Overall GitHub Stats - Show total contributions, stars, PRs, issues -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NguyenPhuongCoder&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=25&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhuongCoder&langs_count=6&layout=compact&theme=react&hide_border=true&hide=HTML,CSS" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NguyenPhuongcoder&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=25&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhuongcoder&langs_count=6&layout=compact&theme=react&hide_border=true&hide=HTML,CSS" />
 </div>
 
 <!-- 2. Contribution Streak - Shows consistency and dedication -->
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenPhuongCoder&theme=react&hide_border=true&background=0D1117&fire=FF652F&ring=FF652F&currStreakLabel=FF652F" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenPhuongcoder&theme=react&hide_border=true&background=0D1117&fire=FF652F&ring=FF652F&currStreakLabel=FF652F" />
 </div>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
