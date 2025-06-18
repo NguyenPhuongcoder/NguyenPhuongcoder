@@ -47,7 +47,7 @@
 
 <!-- 2. Contribution Streak - Shows consistency and dedication -->
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenPhuongcoder&theme=react&hide_border=true&background=0D1117&fire=FF652F&ring=FF652F&currStreakLabel=FF652F" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=NguyenPhuongcoder&theme=react&hide_border=true&background=0D1117&fire=FF652F&ring=FF652F&currStreakLabel=FF652F" />
 </div>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
